@@ -1,18 +1,23 @@
-# Sales Analysis with Excel
+# Sales Analysis with Excel and SQL
 
-
-This project provides a comprehensive approach to analyzing sales data using Microsoft Excel. It includes Excel workbooks and associated analysis techniques to help uncover insights from sales data, such as trends, performance metrics, and key performance indicators (KPIs).
+This project offers a comprehensive approach to sales data analysis, utilizing both Microsoft Excel and SQL to ensure accuracy and provide robust insights. The repository contains resources for analyzing sales data, validating results between Excel and SQL, and deriving actionable business insights.
 
 ## Project Overview
-The repository contains Excel files and resources for performing sales analysis. It is designed to help users with varying levels of Excel proficiency analyze and visualize sales data effectively.
+### The repository includes:
 
-### Features
-**Data Import and Cleaning:** Techniques for importing, cleaning, and preparing sales data for analysis.
+**Excel Workbooks:** For data import, cleaning, and visualization.
 
-**Pivot Tables:** Use of pivot tables to summarize and explore sales data dynamically.
+**SQL Scripts:** For querying, aggregating, and validating sales data.
 
-**Charts and Graphs:** Various charts and graphs to visualize sales trends, performance, and distribution.
+**Documentation:** Guides and instructions for performing analyses and comparing results.
 
-**Advanced Formulas:** Implementation of advanced Excel formulas for calculating KPIs, growth rates, and other metrics.
+## Features
+**Data Import and Cleaning:** Instructions for preparing and cleaning sales data in Excel.
 
-**Dashboards:** Interactive dashboards that consolidate key metrics and visualizations for easy access and analysis.
+**Pivot Tables and Charts:** Excel tools for summarizing and visualizing sales data.
+
+**SQL Queries:** Scripts for querying and aggregating data to validate Excel results.
+
+**Data Validation:** Techniques to compare and confirm the accuracy of Excel analyses against SQL queries.
+
+**Interactive Dashboards:** Dashboards in Excel for consolidated views of key metrics and performance indicators.
